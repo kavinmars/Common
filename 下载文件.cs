@@ -4,7 +4,7 @@
 /// <param name="URL">下载文件地址</param>
 /// <param name="Filename">下载后另存为（全路径）</param>
        
-private bool DownloadFile(string URL, string filename)
+private static bool DownloadFile(string URL, string filename)
 {
     try
     {
