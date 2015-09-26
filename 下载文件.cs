@@ -1,8 +1,8 @@
 /// <summary>
-/// обтьнд╪Ч
+/// Д╦▀Х╫╫Ф√┤Д╩╤2
 /// </summary>
-/// <param name="URL">обтьнд╪Ч╣ьж╥</param>
-/// <param name="Filename">обть╨СаМ╢Фн╙ё╗х╚б╥╬╤ё╘</param>
+/// <param name="URL">Д╦▀Х╫╫Ф√┤Д╩╤Е°╟Е²─</param>
+/// <param name="Filename">Д╦▀Х╫╫Е░▌Е▐╕Е╜≤Д╦╨О╪┬Е┘╗Х╥╞Е╬└О╪┴</param>
        
 private static bool DownloadFile(string URL, string filename)
 {
